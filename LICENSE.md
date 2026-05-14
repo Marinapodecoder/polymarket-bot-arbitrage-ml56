@@ -1,4 +1,4 @@
-# 
+# AI-powered Polymarket Addon | volatility-detection + high-frequency-trading is the best Polymarket addon, featuring volatility-detection and high-frequency-trading. Smart, fast,
 
 
 
